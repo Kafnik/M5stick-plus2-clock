@@ -1,4 +1,4 @@
 # M5stick-plus2-clock
 
-> [! WARNING]
+> [!WARNING]
 > Проэкт еще в разроботке
